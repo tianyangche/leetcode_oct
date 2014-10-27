@@ -1,1 +1,3 @@
-This repo is a totally new one for ##leetcode.
+Leetcode
+===
+This repo is a totally new one for **leetcode**.
